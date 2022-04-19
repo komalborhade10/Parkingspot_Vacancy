@@ -4,7 +4,7 @@ Use the left sidebar selector to choose what to do:
 
 1. Instructions (You are here 😉)
 
-2. 2.	See a Show avaliable parking Spot
+2. See a Show avaliable parking Spot
 
 3. Get live data from the YouTube stream and find parking spots
 
